@@ -1,0 +1,20 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/SimplifiedLotteryGame
+/SimplifiedLotteryGame/bin/Debug/net8.0
+/SimplifiedLotteryGame/obj
+/SimplifiedLotteryGame.Tests/bin/Debug/net8.0
+/SimplifiedLotteryGame.Tests/obj/SimplifiedLotteryGame.Tests.csproj.nuget.g.props
+/SimplifiedLotteryGame.Tests/obj/SimplifiedLotteryGame.Tests.csproj.nuget.dgspec.json
+/SimplifiedLotteryGame.Tests/obj/project.nuget.cache
+/SimplifiedLotteryGame.Tests/obj/project.assets.json
+/SimplifiedLotteryGame.Tests/obj/Debug/net8.0
+/SimplifiedLotteryGame.Tests/obj/Debug/net6.0/SimplifiedLotteryGame.Tests.assets.cache
+/SimplifiedLotteryGame.Tests/obj/Debug/net6.0/SimplifiedLotteryGame.Tests.csproj.AssemblyReference.cache
+/SimplifiedLotteryGame.Tests/obj/Debug/net6.0/SimplifiedLotteryGame.Tests.csproj.FileListAbsolute.txt
+/SimplifiedLotteryGame.Tests/obj/Debug/net6.0/SimplifiedLotteryGame.Tests.GeneratedMSBuildEditorConfig.editorconfig
+/SimplifiedLotteryGame.Tests/bin/Debug/net6.0
+/SimplifiedLotteryGame.Tests/obj/Debug/net6.0
+/SimplifiedLotteryGame.Tests/obj
